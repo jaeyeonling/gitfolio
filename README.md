@@ -1,4 +1,4 @@
-# gitfolio
+# Gitfolio
 :octocat: personal website + blog for every github user
 
 ## Reference
